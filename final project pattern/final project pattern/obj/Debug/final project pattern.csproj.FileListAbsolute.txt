@@ -1,0 +1,7 @@
+D:\C#\final project pattern\final project pattern\bin\Debug\final project pattern.exe.config
+D:\C#\final project pattern\final project pattern\bin\Debug\final project pattern.exe
+D:\C#\final project pattern\final project pattern\bin\Debug\final project pattern.pdb
+D:\C#\final project pattern\final project pattern\obj\Debug\final project pattern.csproj.AssemblyReference.cache
+D:\C#\final project pattern\final project pattern\obj\Debug\final project pattern.csproj.CoreCompileInputs.cache
+D:\C#\final project pattern\final project pattern\obj\Debug\final project pattern.exe
+D:\C#\final project pattern\final project pattern\obj\Debug\final project pattern.pdb
